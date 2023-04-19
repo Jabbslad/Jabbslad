@@ -3,7 +3,6 @@
 I am a passionate Engineering Manager with over 15 years of experience in the software development industry, having worked for a variety of organisations, ranging from highly regulated financial environments to high growth scale-ups and small start-ups.
 
 * 🌍  I'm based in London, United Kingdom
-* 🖥️  See my portfolio at [https://ja.mie.sh](http://ja.mie.sh)
 * ✉️  You can contact me at [9zg7tnpci@mozmail.com](mailto:9zg7tnpci@mozmail.com)
 * 🚀  I'm currently working on [Multiple open source projects](http://github.com/Jabbslad)
 * 🧠  I'm currently learning Rust and building TUI applications
